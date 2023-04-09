@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Membership",
+    "price": 25.99,
+    "features": ["Full equipment access", "Steam room", "Tanning bed"]
+  },
+  {
+    "id": 2,
+    "name": "Premium Membership",
+    "price": 39.99,
+    "features": ["Full equipment access", "Sauna", "Steam room"]
+  },
+  {
+    "id": 3,
+    "name": "VIP Membership",
+    "price": 69.99,
+    "features": ["Full equipment access", "Sauna", "Steam room", "Tanning bed"]
+  }
+]
